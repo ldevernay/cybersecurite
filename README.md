@@ -10,3 +10,6 @@ Cette semaine, votre mission sera de créer des fiches liées à la cybersécuri
 
 ## Rendu attendu
 Vous pouvez rendre cette fiche sous la forme d'une page de wiki voire d'un site statique. 
+
+## Ressources
+[De quoi vous occuper](https://github.com/ldevernay/cybersecurite/wiki/Ressources)
