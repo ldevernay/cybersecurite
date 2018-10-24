@@ -9,6 +9,8 @@ Cette semaine, votre mission sera de créer des fiches liées à la cybersécuri
 
 ## Rendu attendu
 Vous pouvez rendre cette fiche sous la forme d'une page de wiki voire d'un site statique.   
+Celle-ci devra présenter les principaux outils, plugins, les bonnes pratiques et ressources sur le sujet.    
+N'oubliez pas de décrire les failles que vous cherchez à éviter.
 Avant le 04/11 minuit.   
 Présentation de chaque fiche et de votre démarche le 06/11 matin.    
 
